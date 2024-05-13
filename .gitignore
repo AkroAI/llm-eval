@@ -1,0 +1,13 @@
+mlartifacts/
+mlruns/
+.env
+.venv
+outputs/
+data_upload/
+data_generation/
+input_data.json
+data_upload_api/
+evaluation/
+eval_downloads/
+.DS_Store
+api_tests.rest

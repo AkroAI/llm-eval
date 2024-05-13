@@ -1,0 +1,34 @@
+{
+    "examples": [
+        {
+            "query": "What is the purpose of Llama 2-Chat models and how do they differ from open-source chat models?",
+            "query_by": {
+                "model_name": "gpt-3.5-turbo",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "filename, page, text\nLlama 2 - Open Foundation and Fine-Tuned Chat Models.pdf, 1, Llama 2 : Open Foundation and Fine-Tuned Chat Models\nHugo Touvron\u2217Louis Martin\u2020Kevin Stone\u2020\nPeter Albert Amjad Almahairi Yasmine Babaei Nikolay Bashlykov Soumya Batra\nPrajjwal Bhargava Shruti Bhosale Dan Bikel Lukas Blecher Cristian Canton Ferrer Moya Chen\nGuillem Cucurull David Esiobu Jude Fernandes Jeremy Fu Wenyin Fu Brian Fuller\nCynthia Gao Vedanuj Goswami Naman Goyal Anthony Hartshorn Saghar Hosseini Rui Hou\nHakan Inan Marcin Kardas Viktor Kerkez Madian Khabsa Isabel Kloumann Artem Korenev\nPunit Singh Koura Marie-Anne Lachaux Thibaut Lavril Jenya Lee Diana Liskovich\nYinghai Lu Yuning Mao Xavier Martinet Todor Mihaylov Pushkar Mishra\nIgor Molybog Yixin Nie Andrew Poulton Jeremy Reizenstein Rashi Rungta Kalyan Saladi\nAlan Schelten Ruan Silva Eric Michael Smith Ranjan Subramanian Xiaoqing Ellen Tan Binh Tang\nRoss Taylor Adina Williams Jian Xiang Kuan Puxin Xu Zheng Yan Iliyan Zarov Yuchen Zhang\nAngela Fan Melanie Kambadur Sharan Narang Aurelien Rodriguez Robert Stojnic\nSergey Edunov Thomas Scialom\u2217\nGenAI, Meta\nAbstract\nIn this work, we develop and release Llama 2,\nLlama 2 - Open Foundation and Fine-Tuned Chat Models.pdf, 1, Meta\nAbstract\nIn this work, we develop and release Llama 2, a collection of pretrained and fine-tuned\nlarge language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.\nOur fine-tuned LLMs, called Llama 2-Chat , are optimized for dialogue use cases. Our\nmodels outperform open-source chat models on most benchmarks we tested, and based on\nourhumanevaluationsforhelpfulnessandsafety,maybeasuitablesubstituteforclosed-\nsource models. We provide a detailed description of our approach to fine-tuning and safety\nimprovements of Llama 2-Chat in order to enable the community to build on our work and\ncontribute to the responsible development of LLMs.\n\u2217Equal contribution, corresponding authors: {tscialom, htouvron}@meta.com\n\u2020Second author\nContributions for all the authors can be found in Section A.1.arXiv:2307.09288v2  [cs.CL]  19 Jul 2023"
+            ],
+            "reference_answer": "The purpose of Llama 2-Chat models is to serve as a collection of pretrained and fine-tuned large language models optimized for dialogue use cases. These models are designed to outperform open-source chat models on various benchmarks. They are considered as a potential substitute for closed-source models based on evaluations for helpfulness and safety. The Llama 2-Chat models differ from open-source chat models in terms of their performance and optimization for dialogue use cases.",
+            "reference_answer_by": {
+                "model_name": "gpt-3.5-turbo",
+                "type": "ai"
+            }
+        },
+        {
+            "query": "How does the Llama 2-Chat model perform compared to other chat models in terms of benchmarks and humane evaluations?",
+            "query_by": {
+                "model_name": "gpt-3.5-turbo",
+                "type": "ai"
+            },
+            "reference_contexts": [
+                "filename, page, text\nLlama 2 - Open Foundation and Fine-Tuned Chat Models.pdf, 1, Llama 2 : Open Foundation and Fine-Tuned Chat Models\nHugo Touvron\u2217Louis Martin\u2020Kevin Stone\u2020\nPeter Albert Amjad Almahairi Yasmine Babaei Nikolay Bashlykov Soumya Batra\nPrajjwal Bhargava Shruti Bhosale Dan Bikel Lukas Blecher Cristian Canton Ferrer Moya Chen\nGuillem Cucurull David Esiobu Jude Fernandes Jeremy Fu Wenyin Fu Brian Fuller\nCynthia Gao Vedanuj Goswami Naman Goyal Anthony Hartshorn Saghar Hosseini Rui Hou\nHakan Inan Marcin Kardas Viktor Kerkez Madian Khabsa Isabel Kloumann Artem Korenev\nPunit Singh Koura Marie-Anne Lachaux Thibaut Lavril Jenya Lee Diana Liskovich\nYinghai Lu Yuning Mao Xavier Martinet Todor Mihaylov Pushkar Mishra\nIgor Molybog Yixin Nie Andrew Poulton Jeremy Reizenstein Rashi Rungta Kalyan Saladi\nAlan Schelten Ruan Silva Eric Michael Smith Ranjan Subramanian Xiaoqing Ellen Tan Binh Tang\nRoss Taylor Adina Williams Jian Xiang Kuan Puxin Xu Zheng Yan Iliyan Zarov Yuchen Zhang\nAngela Fan Melanie Kambadur Sharan Narang Aurelien Rodriguez Robert Stojnic\nSergey Edunov Thomas Scialom\u2217\nGenAI, Meta\nAbstract\nIn this work, we develop and release Llama 2,\nLlama 2 - Open Foundation and Fine-Tuned Chat Models.pdf, 1, Meta\nAbstract\nIn this work, we develop and release Llama 2, a collection of pretrained and fine-tuned\nlarge language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.\nOur fine-tuned LLMs, called Llama 2-Chat , are optimized for dialogue use cases. Our\nmodels outperform open-source chat models on most benchmarks we tested, and based on\nourhumanevaluationsforhelpfulnessandsafety,maybeasuitablesubstituteforclosed-\nsource models. We provide a detailed description of our approach to fine-tuning and safety\nimprovements of Llama 2-Chat in order to enable the community to build on our work and\ncontribute to the responsible development of LLMs.\n\u2217Equal contribution, corresponding authors: {tscialom, htouvron}@meta.com\n\u2020Second author\nContributions for all the authors can be found in Section A.1.arXiv:2307.09288v2  [cs.CL]  19 Jul 2023"
+            ],
+            "reference_answer": "The Llama 2-Chat model outperforms open-source chat models on most benchmarks tested and has received positive evaluations for helpfulness and safety.",
+            "reference_answer_by": {
+                "model_name": "gpt-3.5-turbo",
+                "type": "ai"
+            }
+        }
+    ]
+}
